@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Zuri Mervyn 👋
 
 I'm a passionate coder and developer who loves creating apps, designing websites, and diving into various coding projects. Let me share a bit about my coding journey with you!
 
